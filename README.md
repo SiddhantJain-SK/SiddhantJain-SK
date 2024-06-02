@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SiddhantJain-SK
 - 👀 I’m interested in learning multiple programming languages.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Kotlin.
 - 💞️ I’m looking to collaborate in different events.
 - 📫 How to reach me : Insta Profile: siddhant_sk_1911
 
